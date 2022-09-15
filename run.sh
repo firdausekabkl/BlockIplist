@@ -1,7 +1,6 @@
 ./IPupdate.sh
-clear
 ./ublock.sh
-clear
+
 #!/bin/bash
 for i in $(cat b-ip.txt);
 do
