@@ -1,1 +1,1 @@
-setsid run.sh
+setsid ./run.sh
