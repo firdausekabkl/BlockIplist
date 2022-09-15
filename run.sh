@@ -1,4 +1,3 @@
-
 ./IPupdate.sh
 clear
 ./ublock.sh
