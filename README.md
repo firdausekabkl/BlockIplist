@@ -10,5 +10,7 @@ chmod +x run.sh<br>
 chmod +x autorun.sh<br>
 ./run.sh<br>
 
-For Runing Background <br>
+
+
+<h3>For Runing Background <br></h3>
 ./autorun.sh
