@@ -7,7 +7,7 @@ chmod +x ublock.sh
 #!/bin/bash
 for u in $(cat u-ip.txt);
 do
-
+ufw delete deny from "$u" 
 done
 
 #the rules & Reload Services
