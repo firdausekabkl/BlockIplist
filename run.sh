@@ -1,4 +1,6 @@
 chmod +x IPupdate.sh
+chmod +x ublock.sh
+
 
 ./IPupdate.sh
 ./ublock.sh
