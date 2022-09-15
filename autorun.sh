@@ -1,1 +1,1 @@
-setsid ./run.sh
+nohup ./run.sh
