@@ -7,7 +7,7 @@ git clone https://github.com/firdausekabkl/BlockIplist.git
 
 cd BlockIplist<br>
 chmod +x run.sh<br>
-chmod +x autorun.sh
+chmod +x autorun.sh<br>
 ./run.sh<br>
 
 For Runing Background <br>
