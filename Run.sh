@@ -6,6 +6,6 @@ do
 sudo ufw reject from "$i" to any
 done
 
-the rules & Reload Services
+#the rules & Reload Services
 service iptables save
 sudo ufw reload
