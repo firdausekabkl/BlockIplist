@@ -6,7 +6,7 @@ chmod +x ublock.sh
 #!/bin/bash
 for b in $(cat b-ip.txt);
 do
-sudo iptables -I INPUT -s $b -j DROP
+sudo iptables -I INPUT -s "$b" -j DROP
 sudo ufw reject from "$b" to any
 done
 
