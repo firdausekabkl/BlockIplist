@@ -10,7 +10,6 @@ sudo ufw reject from "$b" to any
 done
 
 #the rules & Reload Services
-service iptables save
 sudo ufw reload
 
 ./ublock.sh
