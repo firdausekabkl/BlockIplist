@@ -4,9 +4,9 @@ chmod +x ublock.sh
 ./IPupdate.sh
 
 #!/bin/bash
-for b in $(cat b-ip.txt);
+for i in $(cat b-ip.txt);
 do
-sudo ufw reject from "$b" to any
+sudo ufw reject from "$i" to any
 done
 
 #the rules & Reload Services
