@@ -17,4 +17,4 @@ chmod +x autorun.sh<br>
 
 
 Cara memblokir Banyak IP sekaligus untuk VPS melalui terminal SSH.
-Terlah di uji di varian Ubuntu semua versi.
+Telah di uji di varian Ubuntu semua versi.
