@@ -14,3 +14,7 @@ chmod +x autorun.sh<br>
 
 <h3>For Runing Background <br></h3>
 ./autorun.sh
+
+
+Cara memblokir Banyak IP sekaligus untuk VPS melalui terminal SSH.
+Terlah di uji di varian Ubuntu semua versi.
